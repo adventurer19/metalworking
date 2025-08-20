@@ -1,0 +1,22 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "products": "Products",
+    "gallery": "Gallery",
+    "contacts": "Contacts"
+  },
+  "hero": {
+    "title": "Professional Metalworking",
+    "subtitle": "Quality and precision since 2007",
+    "cta": "Contact us"
+  },
+  "services": {
+    "title": "Our Services",
+    "cnc": "CNC Machining",
+    "cutting": "Metal Cutting",
+    "welding": "Welding",
+    "engineering": "Engineering Services"
+  }
+}
